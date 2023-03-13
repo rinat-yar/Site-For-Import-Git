@@ -1,0 +1,9 @@
+tmp
+
+*_old
+
+Thumbs
+
+.DS_Store
+
+*.png_backup/
